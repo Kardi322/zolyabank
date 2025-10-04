@@ -1,0 +1,33 @@
+# Cache directory
+cache/
+temp_*.xlsx
+temp_*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Excel files (optional - uncomment if you don't want to commit Excel files)
+# *.xlsx
+# *.xls
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
